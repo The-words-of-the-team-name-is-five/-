@@ -24,4 +24,4 @@ github下载地址：https://github.com/The-words-of-the-team-name-is-five/Proje
 
 * 安装及打开方式：
 
-下载文件夹，安装node。完成后双击open.bat文件，等待网站打开。若出现“找不到文件夹路径”类似字样即文件夹没有放在桌面上
+下载文件夹，安装node。完成后双击网上购物系统.lnk（快捷方式），等待网站打开。若出现“找不到文件夹路径”类似字样即文件夹没有放在桌面上
