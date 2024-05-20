@@ -20,7 +20,7 @@ windows10及以上，node已安装
 
 * 软件的发布方式以及发布地址：
 
-github下载地址：
+github下载地址：https://github.com/The-words-of-the-team-name-is-five/Project-Download-res
 
 * 安装及打开方式：
 
